@@ -15,4 +15,5 @@ This repo contains the data analysis of 9 trials in Colombia. Each trial was con
 > -   **202155DVGXE_ciat**: Conducted in August **2021** at the CIAT location, with **28** cassava clones tested.
 > -   **202157DVGXE_polo**: Conducted in August **2021** at the Polonuevo location, with **28** cassava clones tested.
 > -   **202158DVGXE_momi**: Conducted in August **2021** at the Momil location, with **28** cassava clones tested.
+
 ![](https://github.com/Cassava2050/2022DVGXE9env/blob/main/images/map_DVGXE_.png)
